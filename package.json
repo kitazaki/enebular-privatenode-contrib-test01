@@ -1,0 +1,28 @@
+{
+  "name": "enebular-privatenode-contrib-test01",
+  "version": "0.0.1",
+  "description": "This is a test node.",
+  "main": "test01.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitazaki/enebular-privatenode-contrib-test01.git"
+  },
+  "keywords": [
+    "node-red",
+    "kitazaki"
+  ],
+  "dependencies": {
+  },
+  "author": "kitazaki",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kitazaki/enebular-privatenode-contrib-test01/issues"
+  },
+  "homepage": "https://github.com/kitazaki/enebular-privatenode-contrib-test01#readme",
+  "node-red": {
+    "nodes": {
+      "test01": "test01.js"
+    }
+  }
+}
